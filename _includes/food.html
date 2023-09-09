@@ -10,7 +10,10 @@
         <div class="row">
         {% for establishment in site.food %}
             <div class="col-md-4 col-sm-6 portfolio-item">
+                <figure>
                     <img src="img/food/{{ establishment.img }}.jpg" class="img-centered" height="240px" width="360px" alt="">
+                    <figcaption class="img-source">source: {{ establishment.source }}</figcaption>
+                    </figure>
                 <div class="portfolio-caption">
                     <h4>{{ establishment.name }}</h4>
                     <p class="text-muted">{{ establishment.type }}</p>

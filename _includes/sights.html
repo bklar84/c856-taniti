@@ -10,7 +10,10 @@
         <div class="row">
         {% for sight in site.sights %}
             <div class="col-md-4 col-sm-6 portfolio-item">
+                <figure>
                     <img src="img/food/{{ sight.img }}.jpg" class="img-centered" height="240px" width="360px" alt="">
+                    <figcaption class="img-source">source: {{ site.source }}</figcaption>
+                </figure>
                 <div class="portfolio-caption">
                     <h4>{{ sight.name }}</h4>
                     <p class="text-muted">{{ sight.description }}</p>

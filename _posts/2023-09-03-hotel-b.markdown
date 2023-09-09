@@ -11,5 +11,6 @@ project-date: April 2014
 address: 1237 Main St, Taniti
 phone: +8(111)-555-5558
 description: The most popular hotel for tourists, 4 years running. Situated near the center of Taniti City.
+source: bagandaytours.com
 
 ---

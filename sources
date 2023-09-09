@@ -34,3 +34,6 @@ images:
     sights2: wallpapercave.com
     sights3: seasidetours.net
     sights4: emozzy.com
+
+    <figure> </figure>
+    <figcaption>source: {{ post.source }}</figcaption>

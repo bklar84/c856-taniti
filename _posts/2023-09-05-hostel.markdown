@@ -11,5 +11,6 @@ project-date: April 2014
 address: 1235 Main St, Taniti
 phone: +8(111)-555-5556
 description: Situated comfortably in Merriton Landing.
+source: infohostels.com
 
 ---
