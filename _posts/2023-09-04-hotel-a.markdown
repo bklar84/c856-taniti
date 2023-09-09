@@ -1,0 +1,15 @@
+---
+title: Hotel A
+subtitle: 3-Star Hotel
+layout: default
+modal-id: 3
+date: 2023-09-04
+img: hotela.jpg
+thumbnail: hotela.jpg
+alt: image-alt
+project-date: April 2014
+address: 1236 Main St, Taniti
+phone: +8(111)-555-5557
+description: A popular choice for those wishing to visit Yellow Leaf Bay frequently.
+
+---

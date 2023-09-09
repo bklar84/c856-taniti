@@ -1,0 +1,23 @@
+<!-- Sights Grid Section -->
+<section id="sights" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Sights</h2>
+                <h3 class="section-subheading text-muted">Take in these breathtaking views from around the island</h3>
+            </div>
+        </div>
+        <div class="row">
+        {% for sight in site.sights %}
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                    <img src="img/food/{{ sight.img }}.jpg" class="img-centered" height="240px" width="360px" alt="">
+                <div class="portfolio-caption">
+                    <h4>{{ sight.name }}</h4>
+                    <p class="text-muted">{{ sight.description }}</p>
+                    <p class="text-muted">{{ sight.location }}</p>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>

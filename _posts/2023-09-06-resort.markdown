@@ -1,0 +1,15 @@
+---
+title: Taniti Resort
+subtitle: 4-Star Resort
+layout: default
+modal-id: 1
+date: 2023-09-06
+img: resort.jpg
+thumbnail: resort.jpg
+alt: image-alt
+project-date: April 2014
+address: 1234 Main St, Taniti
+phone: +8(111)-555-5555
+description: Taniti's only 4-star resort, located in the heart of the entertainment district in Merriton Landing.
+
+---

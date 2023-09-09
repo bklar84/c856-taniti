@@ -1,0 +1,15 @@
+---
+title: Hotel B
+subtitle: 3-star Hotel
+layout: default
+modal-id: 4
+date: 2023-09-03
+img: hotelb.jpg
+thumbnail: hotelb.jpg
+alt: image-alt
+project-date: April 2014
+address: 1237 Main St, Taniti
+phone: +8(111)-555-5558
+description: The most popular hotel for tourists, 4 years running. Situated near the center of Taniti City.
+
+---

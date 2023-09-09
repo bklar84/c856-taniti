@@ -1,64 +1,153 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Taniti
+email: bklarma@wgu.edu
+description: "Tanitian Islands. The beauty of the Pacific!"
+
+# Food
+food:
+- name: Restaurant 1
+  img: 1
+  type: Fish and Rice
+  address: 2345 Main St, Taniti City
+  cost: $$$$
+- name: Restaurant 2
+  img: 2
+  type: Fish and Rice
+  address: 2346 Main St, Taniti City
+  cost: $$$
+- name: Restaurant 3
+  img: 3
+  type: Fish and Rice
+  address: 2347 Main St, Taniti City
+  cost: $$$
+- name: Restaurant 4
+  img: 4
+  type: Fish and Rice
+  address: 2348 Main St, Taniti City
+  cost: $$$$
+- name: Restaurant 5
+  img: 5
+  type: Fish and Rice
+  address: 2349 Main St, Taniti City
+  cost: $$
+- name: Restaurant 6
+  img: 6
+  type: American
+  address: 3456 Main St, Taniti City
+  cost: $$$
+- name: Restaurant 7
+  img: 7
+  type: American
+  address: 3457 Main St, Taniti City
+  cost: $$
+- name: Restaurant 8
+  img: 8
+  type: American
+  address: 3458 Main St, Taniti City
+  cost: $$$
+- name: Restaurant 9
+  img: 9
+  type: Pan-Asian
+  address: 4567 Main St, Taniti City
+  cost: $$$$
+- name: Restaurant 10
+  img: 10
+  type: Pan-Asian
+  address: 5678 Main St, Taniti City
+  cost: $$$
+- name: Grocer 1
+  img: 11
+  type: Grocery Store
+  address: 4567 Main St, Taniti City
+  cost: Cost varies
+- name: Grocer 2
+  img: 12
+  type: Grocery Store
+  address: 5679 Main St, Taniti City
+  cost: Cost varies
+- name: Convenience 1
+  img: 13
+  type: Convenience Store
+  address: 5680 Main St, Taniti City
+  cost: Cost varies
 
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+# Entertainment
+entertainment:
+- name: Local History Museum
+  description: Come visit one of Taniti's history museums
+  location: Taniti City
+  img: 1
+- name: Chartered Fishing Tours
+  description: Take a chartered fishing tour around the island
+  location: Merriton Landing
+  img: 2
+- name: Snorkeling
+  description: Dive in our beautiful waters and explore the ocean wildlife
+  location: Merriton Landing
+  img: 3
+- name: Rainforest Zip Lining
+  description: Take a zip line through our lush Rainforest
+  location: 2199 Play Rd, Merriton Landing
+  img: 4
+- name: Local Pubs
+  description: Gather your party at on of our many pubs
+  location: Merriton Landing
+  img: 5
+- name: Local Microbrewery
+  description: Enjoy exclusive Tanitian made microbrews
+  location: 3278 Play Rd, Merriton Landing
+  img: 6
+- name: Dance Club
+  description: Let loose at our dance club
+  location: 7546 Night St, Merriton Landing
+  img: 7
+- name: Helicopter Rides
+  description: Explore the isand by air with a helicopter ride
+  location: Taniti City
+  img: 8
+- name: Arcade
+  description: Unlock your inner child one quarter at a time
+  location: 1264 Play Rd, Merriton Landing
+  img: 9
+- name: Art Galleries
+  description: View spectacular art works by native Tanitians
+  location: Merriton Landing, Tanity City
+  img: 10
+- name: Bowling
+  description: Knock some pins over at our bowling alley
+  location: 92638 Fun Ave, Taniti City
+  img: 11
+- name: 9-Hole Gofling (Coming Next Year!)
+  description: Soon to arrive 9-hole golfing
+  location: Merriton Landing
+  img: 12
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# Sights
+sights:
+- name: Taniti Volcano
+  description: Come see Taniti's active volcano!
+  location: Outside of Taniti City
+  img: 1
+- name: Beaches
+  description: Visit our several white sandy beaches.
+  location: Yellow Leaf Bay
+  img: 2
+- name: Tours
+  description: Take a boat or bus tour of the island
+  location: Taniti City
+  img: 3
+- name: Rainforest
+  description: Hike your way through a beautiful and lush Rainforest!
+  location: 10 miles south of Merriton Landing
+  img: 4
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Taniti City
+  - line: Tanitian Islands
 
 # Build settings
 markdown: kramdown

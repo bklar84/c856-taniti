@@ -1,0 +1,15 @@
+---
+title: Hotel C
+subtitle: 2-Star Hotel
+layout: default
+modal-id: 5
+date: 2023-09-02
+img: hotelc.jpg
+thumbnail: hotelc.jpg
+alt: image-alt
+project-date: April 2014
+address: 1238 Main St, Taniti
+phone: +8(111)-555-5559
+description: Wallet friendly hotel just minutes from Taniti City.
+
+---

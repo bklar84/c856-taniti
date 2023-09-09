@@ -1,0 +1,15 @@
+---
+title: Taniti Hostel
+subtitle: Hostel
+layout: default
+modal-id: 2
+date: 2023-09-05
+img: hostel.jpg
+thumbnail: hostel.jpg
+alt: image-alt
+project-date: April 2014
+address: 1235 Main St, Taniti
+phone: +8(111)-555-5556
+description: Situated comfortably in Merriton Landing.
+
+---
