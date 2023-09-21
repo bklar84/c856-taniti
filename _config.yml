@@ -67,6 +67,11 @@ food:
   address: 5678 Main St, Taniti City
   cost: $$$
   source: hotelnewsme.com
+- name: Local Microbrewery
+  description: Enjoy exclusive Tanitian made microbrews
+  location: 3278 Play Rd, Merriton Landing
+  img: 14
+  source: delishably.com
 - name: Grocer 1
   img: 11
   type: Grocery Store
@@ -114,11 +119,6 @@ entertainment:
   location: Merriton Landing
   img: 5
   source: londonperfect.com
-- name: Local Microbrewery
-  description: Enjoy exclusive Tanitian made microbrews
-  location: 3278 Play Rd, Merriton Landing
-  img: 6
-  source: delishably.com
 - name: Dance Club
   description: Let loose at our dance club
   location: 7546 Night St, Merriton Landing
